@@ -7053,10 +7053,8 @@ dependencies = [
 name = "proofs"
 version = "2.0.0"
 dependencies = [
- "frame-system",
  "parity-scale-codec",
  "sp-core",
- "sp-io",
  "sp-std",
 ]
 
