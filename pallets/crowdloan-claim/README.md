@@ -25,7 +25,7 @@ who forgo staking on a Polkadot/Kusama relay chain so that to participate in
 a commmunity-funding campaign, called [crowdloan](https://github.com/paritytech/polkadot/blob/master/runtime/common/src/crowdloan.rs),
 for acquiring a parachain slot on the relay chain. For doing so, contributors 
 lock DOTs on the Polkadot/Kusama relay chain, for the duration of the parachain 
-slot auction compaign. If the campaign is successfully closed, for forgoing staking 
+slot auction campaign. If the campaign is successfully closed, for forgoing staking 
 during the crowdloan campaign, contributors are rewarded in native tokens of the 
 parachain (on a parachain account). Otherwise, if the campaign miserably fail, the
 locked DOTs are given back to the contributor.
